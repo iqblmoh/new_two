@@ -1,3 +1,2 @@
 ok i am a new text file .
-my name is two two.
-but i am in new branch.
+my name is two.
